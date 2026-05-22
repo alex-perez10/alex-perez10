@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hello, I'm Alex Perez
 
-<!--
-**alex-perez10/alex-perez10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Computer Science student at Kennesaw State University with an interest in software engineering, full-stack development, and AI-powered applications. I enjoy building practical projects that combine clean user interfaces, backend APIs, and problem-solving.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### RAG-Powered Document Q&A System
+Full-stack document question-answering app built with React, FastAPI, OpenAI API, and FAISS. Users can upload documents and ask natural-language questions based on the uploaded content.
+
+### CPU Scheduling Simulator
+Interactive operating systems simulator that visualizes FCFS, SJF, Priority Scheduling, and Round Robin using a Gantt chart and performance metrics.
+
+### Human Body Health App
+In-progress React health information app with an interactive body diagram and OpenAI-powered chat interface.
+
+## Technical Skills
+
+- Languages: Java, JavaScript, Python, HTML, CSS
+- Frontend: React, Vite, JSX, responsive UI design
+- Backend: Node.js, Express, FastAPI, REST APIs
+- AI/ML: OpenAI API, RAG pipelines, FAISS, vector search
+- Tools: Git, GitHub, VS Code, IntelliJ IDEA
+
+## Currently Learning
+
+- Full-stack project deployment
+- Backend API design
+- Data structures and algorithms
+- Python for software engineering and coding interviews
+
+## Connect
+
+- GitHub: github.com/alex-perez10
+- Email: alexgpl2019@gmail.com
