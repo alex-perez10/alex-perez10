@@ -26,7 +26,7 @@ In-progress React health information app with an interactive body diagram and Op
 - Full-stack project deployment
 - Backend API design
 - Data structures and algorithms
-- Python for software engineering and coding interviews
+- Python 
 
 ## Connect
 
